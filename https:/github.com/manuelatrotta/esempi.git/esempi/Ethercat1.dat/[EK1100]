@@ -1,0 +1,13 @@
+[EK1100]
+class = coupler
+name = EtherCAT Coupler (2A E-Bus)
+vendor = Beckhoff
+type = none
+spec = none
+inlen = 0
+outlen = 0
+icon = coupler.png
+current = -2000
+dcactive = 0      
+
+

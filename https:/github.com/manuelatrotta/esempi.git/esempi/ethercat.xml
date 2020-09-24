@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<moduli>
+
+
+<modulo>
+
+              <nome>EtherCAT Coupler (2A E-Bus)</nome>
+
+              <class>coupler</class>
+
+              <vendor>Beckhoff</vendor>
+
+              <type>none</type>
+
+              <current>3000</current>
+
+</modulo>
+
+
+<modulo>
+
+              <nome>EtherCAT Coupler (2A E-Bus)</nome>
+
+              <class>coupler</class>
+
+              <vendor>Beckhoff</vendor>
+
+              <type>none</type>
+
+              <current>2000</current>
+
+</modulo>
+
+</moduli>
